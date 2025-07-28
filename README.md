@@ -37,3 +37,16 @@ Puedes verificar y descargar la versión registrada desde:
 1. Clonar el repositorio  
 ```bash
 git clone https://github.com/tu_usuario/MFSU-UnifiedModel.git
+
+Referencia
+Si usas este trabajo en tus investigaciones, por favor cita:
+
+Franco León, M. Á. (2025). Unified Fractal-Stochastic Model of the Universe (MFSU). Repositorio público en GitHub. DOI/IPFS registrado.
+
+Contacto
+Miguel Ángel Franco León
+Correo: miguelfranco@mfsu-model.org
+
+Licencia
+Este trabajo está bajo licencia Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
+
