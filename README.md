@@ -1,3 +1,10 @@
+# Proyecto MFSU (Repositorio Antiguo)
+
+Este repositorio ya no se actualiza.  
+La versión activa y actualizada del proyecto se encuentra en:  
+👉 [Nuevo repositorio aquí](https://github.com/MiguelAngelFrancoLeon/miguelangelfranco.github.io)
+
+Por favor dirígete allí para acceder a la documentación y las últimas mejoras.
 
 # Unified Fractal-Stochastic Model of the Universe (MFSU)
 
